@@ -54,14 +54,12 @@ Portale front-end realizzato in Vue.js per gestione dati e integrazione con API 
 
 ## 🏅 Certificazioni (in corso / previste)
 - AWS Solutions Architect Associate  
-- AWS Developer Associate  
-*(Aggiorna questa sezione quando superi un esame!)*
+- AWS Developer Associate
 
 ---
 
 ## 📄 Curriculum Vitae
-📎 Scarica il mio CV aggiornato: `[link_al_CV]`  
-*(Puoi caricare il PDF su GitHub o su Google Drive con link pubblico)*
+📎 Scarica il mio CV aggiornato: `[link_al_CV]`
 
 ---
 
