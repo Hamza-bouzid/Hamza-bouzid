@@ -59,7 +59,7 @@ Portale front-end realizzato in Vue.js per gestione dati e integrazione con API 
 ---
 
 ## 📄 Curriculum Vitae
-📎 Scarica il mio CV aggiornato: (./cv.pdf)
+📎 Scarica il mio CV aggiornato: [Apri CV](./cv.pdf)
 
 ---
 
