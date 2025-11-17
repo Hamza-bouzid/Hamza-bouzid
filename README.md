@@ -29,29 +29,6 @@ Mi piace progettare soluzioni scalabili, automatizzare processi e lavorare su in
 
 ---
 
-## 📌 Progetti Principali
-
-### **1️⃣ Serverless Task API – Python + FastAPI + AWS Lambda**
-API REST in architettura serverless (Lambda + API Gateway), con DynamoDB come database NoSQL.  
-🔗 *Repo:* `[link_al_tuo_progetto]`  
-🔧 Tecnologie: FastAPI, DynamoDB, AWS Lambda, AWS SAM/Serverless Framework
-
----
-
-### **2️⃣ Microservizio Containerizzato – Python + Docker + ECS Fargate**
-Un microservizio altamente scalabile, containerizzato con Docker e deployato su AWS ECS con Fargate.  
-🔗 *Repo:* `[link_al_tuo_progetto]`  
-🔧 Tecnologie: FastAPI, Docker, ECS, CloudWatch, CI/CD
-
----
-
-### **3️⃣ Portale Interno con Vue.js (Demo)**
-Portale front-end realizzato in Vue.js per gestione dati e integrazione con API interne.  
-🔗 *Repo:* `[link_al_tuo_progetto]`  
-🔧 Tecnologie: Vue, REST API, JWT
-
----
-
 ## 🏅 Certificazioni (in corso / previste)
 - AWS Solutions Architect Associate  
 - AWS Developer Associate
@@ -65,8 +42,7 @@ Portale front-end realizzato in Vue.js per gestione dati e integrazione con API 
 
 ## 📬 Contatti
 📧 **hamzabouzid10@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/hamza-bouzid  
-🔗 **GitHub:** https://github.com/Hamza-bouzid  
+🔗 **LinkedIn:** https://www.linkedin.com/in/hamza-bouzid
 
 ---
 
